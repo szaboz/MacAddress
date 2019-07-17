@@ -11,9 +11,9 @@ It has been successfully tested on Cordova version 3.1.0.
 
 for Cordova >= 3.0.0
 
-phonegap local plugin add https://github.com/mohamed-salah/MacAddress.git
+phonegap local plugin add https://github.com/szaboz/MacAddress.git
 
-cordova plugin add https://github.com/mohamed-salah/MacAddress.git
+cordova plugin add https://github.com/szaboz/MacAddress.git
 
 for Cordova >= 5.0.0
 
